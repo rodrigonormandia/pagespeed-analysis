@@ -1,0 +1,27 @@
+LICENÇA DE USO — SOFTWARE PROPRIETÁRIO
+
+Skill: pagespeed-analysis
+Titular: Rodrigo Normandia
+Contato: rnrsouza@hotmail.com
+
+© 2026 Rodrigo Normandia. Todos os direitos reservados.
+
+1. Este material (instruções, documentação, scripts, testes e demais arquivos
+   deste repositório) é Propriedade Intelectual Preexistente do titular.
+
+2. Nenhum direito é concedido, cedido ou transferido pela entrega, pelo acesso
+   ou pelo uso deste material, exceto mediante licença escrita firmada pelo
+   titular.
+
+3. Quando concedida, a licença será não exclusiva, intransferível, sem direito
+   de sublicenciamento e limitada ao uso interno do licenciado, nos termos e
+   prazos do instrumento escrito correspondente.
+
+4. Sem licença escrita, é vedado copiar, modificar, distribuir, publicar,
+   sublicenciar, vender ou criar obras derivadas deste material, no todo ou em
+   parte.
+
+5. O material é fornecido "no estado em que se encontra", sem garantias de
+   qualquer natureza, expressas ou implícitas.
+
+Solicitações de licença: rnrsouza@hotmail.com
